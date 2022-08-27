@@ -1,9 +1,9 @@
 # Personal Portfolio
 
-## Tech stack versions
+## Tech stack
 
 React 18.2.0</br>
-Node 16.16.0 - channel stable</br>
+Node 16.16.0</br>
 Express 4.18.1
 
 * It's recomended to use the same versions
