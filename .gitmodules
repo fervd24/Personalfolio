@@ -1,3 +1,6 @@
 [submodule "frontent"]
 	path = frontent
 	url = https://github.com/fervd24/Personalfolio-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/fervd24/Personalfolio-backend
