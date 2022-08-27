@@ -1,0 +1,3 @@
+[submodule "frontent"]
+	path = frontent
+	url = https://github.com/fervd24/Personalfolio-frontend
