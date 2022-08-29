@@ -1,5 +1,12 @@
 # Personal Portfolio
 
+<p align="center">
+
+<kbd align="center">
+    <img src="demo.gif"></img>
+</kbd>
+</p>
+
 ## Tech stack
 
 React 18.2.0</br>
